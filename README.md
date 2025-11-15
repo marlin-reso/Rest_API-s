@@ -1,5 +1,7 @@
 # Project Summary
 
+![API Framework Banner](https://img.shields.io/badge/REST%20Assured-API%20Testing-blue?style=for-the-badge) ![Maven](https://img.shields.io/badge/Maven-Build%20Tool-orange?style=for-the-badge) ![TestNG](https://img.shields.io/badge/TestNG-Testing%20Framework-green?style=for-the-badge) ![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-red?style=for-the-badge) ![Docker](https://img.shields.io/badge/Docker-Containerized-lightblue?style=for-the-badge) ![Allure](https://img.shields.io/badge/Allure-Reporting-purple?style=for-the-badge)
+
 ## Rest Assured API Automation Framework
 
 This project is a **Rest Assured-based API Automation Framework** built using industry-standard tools and best practices. It is designed for scalable, maintainable, and CI/CD-ready API testing.
