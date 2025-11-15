@@ -1,5 +1,9 @@
 # Project Summary
 
+<p align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600" />
+</p>
+
 ![API Framework Banner](https://img.shields.io/badge/REST%20Assured-API%20Testing-blue?style=for-the-badge) ![Maven](https://img.shields.io/badge/Maven-Build%20Tool-orange?style=for-the-badge) ![TestNG](https://img.shields.io/badge/TestNG-Testing%20Framework-green?style=for-the-badge) ![Jenkins](https://img.shields.io/badge/Jenkins-CI%2FCD-red?style=for-the-badge) ![Docker](https://img.shields.io/badge/Docker-Containerized-lightblue?style=for-the-badge) ![Allure](https://img.shields.io/badge/Allure-Reporting-purple?style=for-the-badge)
 
 ## Rest Assured API Automation Framework
