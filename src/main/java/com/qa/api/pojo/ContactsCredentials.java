@@ -13,5 +13,8 @@ public class ContactsCredentials {
 
 	private String email;
 	private String password;
+	
+	
+	
 
 }
