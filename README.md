@@ -52,11 +52,11 @@ This project is a **Rest Assured-based API Automation Framework** built using in
 * Beautiful, interactive HTML reports
 * Provides insights like:
 
-  * Test Summary
-  * Steps
-  * Attachments
-  * Logs
-  * Failure analysis
+  * Test Summary.
+  * Steps.
+  * Attachments.
+  * Logs.
+  * Failure analysis.
 
 ---
 
