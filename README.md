@@ -37,9 +37,9 @@ This project is a **Rest Assured-based API Automation Framework** built using in
 
 ### **4. Jenkins**
 
-* CI/CD integration for automated pipeline execution
-* Integrated with Git & Maven
-* Test execution after every commit/merge
+* CI/CD integration for automated pipeline execution.
+* Integrated with Git & Maven.
+* Test execution after every commit/merge.
 
 ### **5. Docker**
 
