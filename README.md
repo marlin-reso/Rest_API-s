@@ -21,8 +21,8 @@ This project is a **Rest Assured-based API Automation Framework** built using in
 
 ### **2. Maven**
 
-* Build and dependency management
-* Supports multi-module structure and clean execution
+* Build and dependency management.
+* Supports multi-module structure and clean execution.
 
 ### **3. TestNG**
 
