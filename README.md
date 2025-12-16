@@ -26,11 +26,11 @@ This project is a **Rest Assured-based API Automation Framework** built using in
 
 ### **3. TestNG**
 
-* Testing framework for managing test execution
+* Testing framework for managing test execution.
 * Supports:
 
-  * Data Providers
-  * Parallel execution
+  * Data Providers.
+  * Parallel execution.
   * Groups
   * Assertions
   * Suites
