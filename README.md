@@ -43,9 +43,9 @@ This project is a **Rest Assured-based API Automation Framework** built using in
 
 ### **5. Docker**
 
-* Containerized execution of API tests
-* Removes environment dependency
-* Enables running tests on any machine or CI server
+* Containerized execution of API tests.
+* Removes environment dependency.
+* Enables running tests on any machine or CI server.
 
 ### **6. Allure Reporting**
 
