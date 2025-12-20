@@ -31,9 +31,9 @@ This project is a **Rest Assured-based API Automation Framework** built using in
 
   * Data Providers.
   * Parallel execution.
-  * Groups
-  * Assertions
-  * Suites
+  * Groups.
+  * Assertions.
+  * Suites.
 
 ### **4. Jenkins**
 
