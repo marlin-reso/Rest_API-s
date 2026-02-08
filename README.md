@@ -65,7 +65,7 @@ This project is a **Rest Assured-based API Automation Framework** built using in
 * Modular folder structure.
 * Reusable utility classes.
 * Base URI & environment configuration
-* Request & response specification builders
+* Request & response specification builders........
 * Custom listeners for logging
 * Assertions using Hamcrest matchers
 * Maven command support (`mvn clean test`)
