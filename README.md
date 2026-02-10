@@ -16,7 +16,7 @@ This project is a **Rest Assured-based API Automation Framework** built using in
 
 ### **1. Rest Assured**
 
-* Core library for API automation.
+* Core library for API automation.......
 * Supports GET, POST, PUT, DELETE, PATCH, Auth, Headers, Cookies, and Logging.
 
 ### **2. Maven**
