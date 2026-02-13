@@ -69,7 +69,7 @@ This project is a **Rest Assured-based API Automation Framework** built using in
 * Custom listeners for logging
 * Assertions using Hamcrest matchers
 * Maven command support (`mvn clean test`)
-* Allure report generation
+* Allure report generation....
 
 ---
 
